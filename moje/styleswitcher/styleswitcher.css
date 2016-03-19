@@ -1,0 +1,189 @@
+/* Styleswitcher - box */
+
+#style-switcher {
+	position: fixed;
+	top: 0;
+	right: -220px;
+	width: 220px;
+	margin-top: 160px;
+	z-index: 2200;
+	background: #000;
+	color: rgb(255,255,255);
+	padding: 20px;
+}
+
+/* Styleswitcher - trigger */
+
+#style-switcher .ss-close {
+	position: absolute;
+	top: 0;
+	left: -80px;
+	width: 80px;
+	height: 80px;
+	display:block;
+	background: rgb(0,0,0);
+	color: rgb(255,255,255);
+	text-align: center;
+	cursor: pointer;
+}
+
+#style-switcher .ss-close i:before {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 36px;
+	height: 36px;
+	margin-left: -18px !important;
+	margin-top: -18px;
+	font-size: 36px;
+	line-height: 36px;
+	transition: transform 0.3s ease-in-out;
+	-moz-transition: -moz-transform all 0.3s ease-in-out;
+	-webkit-transition: -webkit-transform all 0.3s ease-in-out;
+	-o-transition: -o-transform all 0.3s ease-in-out;
+}
+
+#style-switcher .ss-close.active i:before {
+	transform: rotate(180deg);
+	-webkit-transform: rotate(180deg);
+	-ms-transform: rotate(180deg);
+}
+
+@media (max-width: 767px) {
+	
+	#style-switcher .ss-close {
+		left: -60px;
+		width: 60px;
+		height: 60px;
+	}
+	
+	#style-switcher .ss-close i:before {
+		width: 30px;
+		height: 30px;
+		margin-left: -15px !important;
+		margin-top: -15px;
+		font-size: 30px;
+		line-height: 30px;
+	}
+		
+}
+
+/* Styleswitcher - options */
+
+#style-switcher ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#style-switcher .ss-label {
+	display: block;
+	font-weight: 500;
+	font-size: 11px;
+	padding-bottom: 12px;
+	border-bottom: 1px solid rgb(50,50,50);
+	margin-bottom: 14px;
+}
+
+/* Styleswitcher - colors */
+
+.color-switcher li {
+	margin: 2px;
+	float: left;
+	width: 25px;
+	height: 25px;
+	margin-bottom: 20px;
+}
+
+.color-switcher a {
+	display: block;
+	width: 30px;
+	height: 30px;
+	cursor: pointer;
+	text-align: center;
+	font-family: "FontAwesome";
+	font-weight: normal;
+	font-size: 11px;
+	color: rgb(255,255,255);
+}
+
+.color-switcher a:hover:before, 
+.color-switcher a.active:hover:before,
+.color-switcher .active:before {
+	position: relative;
+	top: 7px;
+}
+
+.color-switcher a:hover:before{
+	content: '\f067';
+}
+
+.color-switcher a.active:hover:before {
+	content: "\f00c";
+}
+
+.color-switcher .active:before {
+	content:  "\f00c";
+}
+
+.color-switcher .blue{ background-color: #25b5f1; }
+.color-switcher .green { background-color: #add71c; }
+.color-switcher .red { background-color: #f65757; }
+.color-switcher .yellow { background-color: #fbce43; }
+.color-switcher .orange { background-color: #f4934c; }
+.color-switcher .violet { background-color: #816ae6; }
+
+/* Styleswitcher - navs */
+
+.nav-switcher li {
+	float: left;
+	margin-right: 5px;
+	font-size: 11px;
+	font-weight: 500;
+	margin-bottom: 15px;
+}
+
+.nav-switcher li a {
+	display: block;
+	padding: 7px 15px;
+	border: 1px solid rgb(50,50,50);
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+
+.nav-switcher li a.active {
+	border-color: rgb(255,255,255);
+}
+
+.nav-switcher a {
+	color: inherit;
+	cursor: pointer;
+}
+
+/* Styleswitcher - other */
+
+.ss-show-screen {
+	cursor: pointer;
+	border-bottom: 0 !important;
+	padding-bottom: 0 !important;
+	margin-bottom: 0 !important;
+}
+
+.ss-show-screen i {
+	position: relative;
+	top: 2px;
+	font-size: 9px;
+	margin-right: 10px;
+	float: right;
+	opacity: .4;
+}
+
+.ss-show-screen:hover i {
+	opacity: 1;
+}
+
+.ss-show-screen a:hover,
+.ss-show-screen a:focus {
+	color: #fff;
+}

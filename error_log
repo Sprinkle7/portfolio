@@ -1,0 +1,59 @@
+
+[25-Jan-2016 15:06:36 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 43
+[25-Jan-2016 15:06:38 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 43
+[25-Jan-2016 15:07:15 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 43
+[25-Jan-2016 15:07:16 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 43
+[25-Jan-2016 15:07:18 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 43
+[27-Jan-2016 13:47:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 83
+[27-Jan-2016 14:29:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 34
+[27-Jan-2016 14:29:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 34
+[27-Jan-2016 14:29:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 34
+[28-Jan-2016 14:30:55 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:31:01 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:31:14 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:31:14 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:32:57 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:32:59 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:33:03 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:33:07 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:33:09 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:33:13 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:33:14 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:33:15 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:33:16 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:33:19 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:33:20 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:33:25 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:33:30 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:33:32 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:33:35 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:33:35 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:33:36 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:33:52 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 51
+[28-Jan-2016 14:35:55 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 52
+[28-Jan-2016 14:35:56 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 52
+[28-Jan-2016 14:35:56 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 52
+[28-Jan-2016 14:38:57 UTC] PHP Parse error:  syntax error, unexpected ',' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 118
+[28-Jan-2016 14:38:57 UTC] PHP Parse error:  syntax error, unexpected ',' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 118
+[28-Jan-2016 14:38:58 UTC] PHP Parse error:  syntax error, unexpected ',' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 118
+[28-Jan-2016 14:47:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 118
+[28-Jan-2016 14:47:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 118
+[28-Jan-2016 14:47:51 UTC] PHP Parse error:  syntax error, unexpected ',' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 118
+[28-Jan-2016 14:50:05 UTC] PHP Parse error:  syntax error, unexpected ',' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 118
+[28-Jan-2016 14:50:05 UTC] PHP Parse error:  syntax error, unexpected ',' in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 118
+[30-Jan-2016 13:20:36 UTC] PHP Parse error:  syntax error, unexpected 'uniqid' (T_STRING) in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 287
+[30-Jan-2016 13:21:36 UTC] PHP Parse error:  syntax error, unexpected 'uniqid' (T_STRING) in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 287
+[31-Jan-2016 11:35:06 UTC] PHP Fatal error:  Call to a member function sound_upload() on a non-object in /home1/holla/public_html/holla/application/controllers/Holla.php on line 58
+[31-Jan-2016 14:54:23 UTC] PHP Fatal error:  Call to a member function sound_upload() on a non-object in /home1/holla/public_html/holla/application/controllers/Holla.php on line 59
+[31-Jan-2016 14:59:39 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home1/holla/public_html/holla/application/models/Holla_model.php on line 70
+[31-Jan-2016 15:00:57 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home1/holla/public_html/holla/application/models/Holla_model.php on line 72
+[31-Jan-2016 15:01:14 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home1/holla/public_html/holla/application/models/Holla_model.php on line 72
+[31-Jan-2016 15:04:19 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home1/holla/public_html/holla/application/models/Holla_model.php on line 56
+[01-Feb-2016 13:17:52 UTC] PHP Parse error:  syntax error, unexpected '$File' (T_VARIABLE) in /home1/holla/public_html/holla/application/controllers/Holla.php on line 32
+[01-Feb-2016 13:19:52 UTC] PHP Fatal error:  Call to undefined method CI_Input::image_upload() in /home1/holla/public_html/holla/application/controllers/Holla.php on line 32
+[03-Feb-2016 13:10:20 UTC] PHP Fatal error:  Can't use method return value in write context in /home1/holla/public_html/holla/application/controllers/Holla.php on line 118
+[03-Feb-2016 13:12:12 UTC] PHP Fatal error:  Can't use method return value in write context in /home1/holla/public_html/holla/application/controllers/Holla.php on line 118
+[04-Feb-2016 14:28:56 UTC] PHP Fatal error:  Call to undefined method Holla_model::do_upload() in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 281
+[04-Feb-2016 14:38:58 UTC] PHP Fatal error:  Call to undefined method Holla_model::do_upload() in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 281
+[04-Feb-2016 14:40:35 UTC] PHP Fatal error:  Call to undefined method Holla_model::do_upload() in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 281
+[04-Feb-2016 14:53:02 UTC] PHP Fatal error:  Call to undefined method Holla_model::do_upload() in /home1/holla/public_html/holla/application/controllers/Holla_apis_controller.php on line 281

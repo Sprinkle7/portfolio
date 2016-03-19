@@ -1,0 +1,36 @@
+/* -----------------------------------------------------------------------------
+	Me. - Responsive Bootstrap vCard HTML/CSS Template
+------------------------------------------------------------------------------- */
+
+/* -- Blue color 
+-------------------------------------------------------------------------------*/
+
+a:hover, a > *:hover, a:focus, a > *:focus,
+.text-primary,
+.me-nav > li > a:hover > i,
+.contact-icon,
+ul.social-icons li a:hover i {
+	color: #25b5f1;
+}
+
+.pace .pace-progress,
+.copyright:before,
+.me-nav > li > a:after,
+.owl-page.active,
+.btn-primary,
+.contact-form-trigger,
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus,
+.label-primiary,
+.progress-bar-primary,
+.sb-primary .skill-rate-on,
+.te-primary:before,
+.me-logo {
+	background-color: #25b5f1;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.contact-form-trigger:hover,
+#contact-form-holder { 
+	background-color: #07a2e2;
+}
